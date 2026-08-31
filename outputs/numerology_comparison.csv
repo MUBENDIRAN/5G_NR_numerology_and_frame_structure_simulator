@@ -1,0 +1,5 @@
+mu,SCS_kHz,slot_duration_ms,symbols_per_slot,symbol_duration_us,slots_per_subframe,slots_per_frame,scheduling_granularity_ms
+0,15,1,14,71.42857143,1,10,1
+1,30,0.5,14,35.71428571,2,20,0.5
+2,60,0.25,14,17.85714286,4,40,0.25
+3,120,0.125,14,8.928571429,8,80,0.125
