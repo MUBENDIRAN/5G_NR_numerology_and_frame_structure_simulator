@@ -1,0 +1,6 @@
+# 5G NR Numerology and Frame-Structure Simulator
+# Python 3.12+ (tested on Windows with CPython)
+
+numpy>=1.26.0
+matplotlib>=3.8.0
+pandas>=2.1.0
